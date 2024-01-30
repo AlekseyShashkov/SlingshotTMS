@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Pepe
+  - Smiley
+  - Woman
   layers:
   - Default
   - TransparentFX
@@ -44,12 +48,9 @@ TagManager:
   - name: Background
     uniqueID: 2221481863
     locked: 0
-  - name: SlingshotRight
+  - name: Slingshot_back
     uniqueID: 2278252355
     locked: 0
-  - name: Pepe
-    uniqueID: 1639347543
-    locked: 0
-  - name: SlingshotLeft
-    uniqueID: 2099954685
+  - name: Slingshot_front
+    uniqueID: 2695925011
     locked: 0

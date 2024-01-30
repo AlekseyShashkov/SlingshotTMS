@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a4e93822b14d3834196d60a1f3de2b3c
+guid: 0e798b07bc8f4154a9d50c48a4ec78b9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,43 +117,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slingshot_front
+      name: Towers_left
       rect:
         serializedVersion: 2
-        x: 2
-        y: 354
-        width: 214
-        height: 319
-      alignment: 9
-      pivot: {x: 0.44602814, y: 0.6649426}
+        x: 463
+        y: 10
+        width: 151
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14ab2af971d1ae74dad6126c05438336
-      internalID: -2087178141
+      spriteID: 8b5e544db26127247a84be3291ad39de
+      internalID: -1761516503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slingshot_back
+      name: Towers_right
       rect:
         serializedVersion: 2
-        x: 240
-        y: 14
-        width: 109
-        height: 665
-      alignment: 9
-      pivot: {x: 0.5588681, y: 0.8492983}
+        x: 659
+        y: 21
+        width: 145
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b069a66be2e1c349b0b16b505843e71
-      internalID: -799295738
+      spriteID: c1fcce1689740d7469fef9f53b1a390a
+      internalID: -980404487
       vertices: []
       indices: 
       edges: []
@@ -169,8 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slingshot_back: -799295738
-      Slingshot_front: -2087178141
+      Towers_left: -1761516503
+      Towers_right: -980404487
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
